@@ -17,7 +17,11 @@ Below you can check all the commands available so far.
 
 ## Screenshots
 
-<!-- ![image](https://user-images.githubusercontent.com/27534241/183315162-e8027a6c-e7f8-43b0-bffb-5c51d53b0d8e.png) -->
+### Add commands
+![image](https://github.com/rishabdhar12/commands-hive/blob/master/screenshots/add_commands.png)
+
+### List commands
+![image](https://github.com/rishabdhar12/commands-hive/blob/master/screenshots/add_commands.png)
 
 ## Improvements
 
