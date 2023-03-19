@@ -21,7 +21,7 @@ Below you can check all the commands available so far.
 ![image](https://github.com/rishabdhar12/commands-hive/blob/master/screenshots/add_commands.png)
 
 ### List commands
-![image](https://github.com/rishabdhar12/commands-hive/blob/master/screenshots/add_commands.png)
+![image](https://github.com/rishabdhar12/commands-hive/blob/master/screenshots/list_commands.png)
 
 ## Improvements
 
