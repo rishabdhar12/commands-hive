@@ -14,9 +14,9 @@ func PrintTable(list []models.Command) {
 		Cells: []*simpletable.Cell{
 
 			{Text: "ID"},
-			{Text: "Category"},
 			{Text: "Name"},
-			{Text: "Paltform"},
+			{Text: "Category"},
+			{Text: "Platform"},
 			{Text: "Description"},
 		},
 	}
@@ -25,17 +25,17 @@ func PrintTable(list []models.Command) {
 
 	for _, row := range list {
 		id := row.ID
-		category := row.Category
 		name := row.Name
-		paltform := row.Paltform
+		category := row.Category
+		platform := row.Platform
 		description := row.Description
 
 		cells = append(cells, []*simpletable.Cell{
-			{Align: simpletable.AlignRight, Text: id},
-			{Text: category},
-			{Align: simpletable.AlignRight, Text: name},
-			{Align: simpletable.AlignRight, Text: paltform},
-			{Align: simpletable.AlignRight, Text: description},
+			{Align: simpletable.AlignLeft, Text: id},
+			{Align: simpletable.AlignLeft, Text: name},
+			{Align: simpletable.AlignLeft, Text: category},
+			{Align: simpletable.AlignLeft, Text: platform},
+			{Align: simpletable.AlignLeft, Text: description},
 		})
 
 		table.Body = &simpletable.Body{Cells: cells}
