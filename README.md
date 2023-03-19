@@ -8,12 +8,12 @@ Below you can check all the commands available so far.
 
 | Command | Description            |
 | ------- | ---------------------- |
-| ./cv -a | Adds a new command     |
-| ./cv -l | List all commands      |
-| ./cv -d | Delete a command by ID |
-| ./cv -s | Search by id           |
-| ./cv -h | Help                   |
-| ./cv -v | Shows the version      |
+| ./ch -a | Adds a new command     |
+| ./ch -l | List all commands      |
+| ./ch -d | Delete a command by ID |
+| ./ch -s | Search by id           |
+| ./ch -h | Help                   |
+| ./ch -v | Shows the version      |
 
 ## Screenshots
 
