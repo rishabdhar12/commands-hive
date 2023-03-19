@@ -1,4 +1,4 @@
-# About Command Vault
+# About Command Hive
 
 Command Hive is a small CLI application whose main purpose is to allow the user to save commands in a array. The user can also delete a command, list all commands, search a command.
 
