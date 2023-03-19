@@ -1,10 +1,10 @@
-# About Command Hive
+# Command Hive
 
 Command Hive is a small CLI application whose main purpose is to allow the user to save commands in a array. The user can also delete a command, list all commands, search a command.
 
 Below you can check all the commands available so far.
 
-## How to use
+## List of commands
 
 | Command | Description            |
 | ------- | ---------------------- |
@@ -17,10 +17,10 @@ Below you can check all the commands available so far.
 
 ## Screenshots
 
-### Add commands
+### Add commands : 
 ![image](https://github.com/rishabdhar12/commands-hive/blob/master/screenshots/add_commands.png)
 
-### List commands
+### List commands : 
 ![image](https://github.com/rishabdhar12/commands-hive/blob/master/screenshots/list_commands.png)
 
 ## Improvements
